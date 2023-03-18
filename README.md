@@ -1,2 +1,3 @@
 # Ubn-Jr-Roadmaps
-Educational Roadmaps 
+Teknik sorularınız için iletişime geçebilirsiniz.
+  - 📫 info@ubnjr.com
